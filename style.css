@@ -18,8 +18,6 @@
      padding-top: 100px;
      background-repeat: no-repeat;
      background-size: cover;
-
-
  }
 
  body,
@@ -67,10 +65,6 @@
      margin-right: 5%;
      padding-left: 15%;
      padding-right: 15%;
-
-
-
-
  }
 
  .box-size h2 {
@@ -84,10 +78,7 @@
      width: 50%;
      margin: 10px;
 
-
-
  }
-
 
  .box-size {
      padding-left: 5%;
@@ -154,9 +145,6 @@
      margin-right: 10%;
      padding-left: 40px;
      padding-right: 40px;
-
-
-
  }
 
  .help-them {
@@ -164,10 +152,6 @@
      padding-top: 10%;
      padding-left: 10%;
      padding-right: 20%;
-
-
-
-
  }
 
  .set-possition {
@@ -186,8 +170,6 @@
  }
 
  #how-to-contribute {
-
-
      text-decoration: none;
      background-color: green;
      border-radius: 10px;
@@ -200,13 +182,11 @@
      padding-left: 25%;
      padding-top: 10%;
      text-align: center;
-
  }
 
  .get-my-update h2 {
      font-size: 50px;
  }
-
 
  .subscribe {
      width: 300px;
@@ -216,14 +196,15 @@
      padding-left: 82px;
      padding-top: 80px;
      padding-right: 30px;
+ }
 
-
+ #color-subscribe {
+     color: white;
+     background-color: red;
  }
 
  #footer {
      text-align: center;
      background-color: black;
      color: green;
-
-
  }
