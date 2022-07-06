@@ -1,37 +1,96 @@
-.header h1 {
-    font-family: 'Signika', sans-serif;
-    color: white;
-    font-size: 60px;
-    padding-left: 32%;
-    width: 35%;
-    padding-top: 18%;
-    text-align: center;
-
-
-}
-
-.header {
-    background-image: url(images/picture1.jpg);
-    height: 90%;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-body,
-html {
-    height: 100%;
-}
+ h1 {
+     font-family: 'Signika', sans-serif;
+     color: white;
+     font-size: 70px;
+     padding-left: 32%;
+     width: 35%;
+     padding-top: 18%;
+     text-align: center;
 
 
 
-.text {
-    color: white;
-    width: 35;
+ }
 
-    text-align: center;
+ .header {
+     background-image: url(images/picture1.jpg);
+     height: 90%;
+     background-repeat: no-repeat;
+     background-size: cover;
+ }
 
+ body,
+ html {
+     height: 100%;
+ }
 
+ .text {
+     color: white;
+     padding: 15px 20px;
+     text-align: center;
+     font-size: 30px;
 
+ }
 
+ .link-button {
+     text-decoration: none;
+     color: white;
+     background-color: green;
+     padding: 15px;
+     border-radius: 10px;
+     font-size: 40px;
+ }
 
-}
+ .second-section h1 {
+     color: black;
+     padding-top: 0%;
+     font-size: 70px;
+ }
+
+ .second-section {
+     color: gray;
+     text-align: center;
+     font-size: 30px;
+ }
+
+ .second-section h2 {
+     color: black;
+     display: flex;
+ }
+
+ .third-section {
+     color: gray;
+     display: flex;
+     width: 50%;
+     padding-top: 6%;
+     padding-left: 20%;
+
+ }
+
+ .box-size {
+     padding-left: 12%;
+     width: 100px;
+     height: 250px;
+     background-color: rgb(240, 234, 234);
+     margin: 10px;
+     text-align: center;
+
+ }
+
+ #donate-botton2 {
+     text-decoration: none;
+     background-color: green;
+     border-radius: 10px;
+     padding: 15px;
+     color: white;
+
+ }
+
+ #other-amount {
+     color: aqua;
+ }
+
+ .our-donate-plan h1 {
+     color: black;
+     padding-top: 50px;
+
+ }
