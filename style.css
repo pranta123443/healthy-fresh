@@ -161,10 +161,67 @@
 
  .help-them {
      display: flex;
-     margin-top: 10%
+     padding-top: 10%;
+     padding-left: 10%;
+     padding-right: 20%;
+
+
+
+
  }
 
- .half-width {
-     width 10%;
+ .set-possition {
+     width 100%;
+     padding-left: 10%;
+     padding-right: 10%;
+ }
+
+ .set-possition img {
+     width: 110%;
+ }
+
+ .help-them h2 {
+     font-size: 50px;
+     font-family: 'Signika', sans-serif;
+ }
+
+ #how-to-contribute {
+
+
+     text-decoration: none;
+     background-color: green;
+     border-radius: 10px;
+     padding: 15px;
+     color: white;
+ }
+
+ .get-my-update {
+     width: 50%;
+     padding-left: 25%;
+     padding-top: 10%;
+     text-align: center;
+
+ }
+
+ .get-my-update h2 {
+     font-size: 50px;
+ }
+
+
+ .subscribe {
+     padding-top: 5%;
+     padding-left: 45%;
+     padding-right: 40%;
+     box-shadow: 5px 7px 40px rgb(219, 219, 173);
+     width: 20%;
+     height: 80%;
+
+ }
+
+ #footer {
+     text-align: center;
+     background-color: black;
+     color: green;
+
 
  }
