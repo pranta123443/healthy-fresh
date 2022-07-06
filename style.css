@@ -3,19 +3,23 @@
      color: white;
      font-size: 70px;
      padding-left: 32%;
-     width: 35%;
-     padding-top: 18%;
+     width: 105%;
+     padding-top: 15%;
+     padding-left: 0%;
+     padding-right: 10%;
+
      text-align: center;
-
-
-
  }
 
  .header {
      background-image: url(images/picture1.jpg);
-     height: 90%;
+     width: 100%;
+     height: 80%;
+     padding-top: 100px;
      background-repeat: no-repeat;
      background-size: cover;
+
+
  }
 
  body,
@@ -58,21 +62,42 @@
  }
 
  .third-section {
-     color: gray;
      display: flex;
-     width: 50%;
-     padding-top: 6%;
-     padding-left: 20%;
+     margin-left: 5%;
+     margin-right: 5%;
+     padding-left: 15%;
+     padding-right: 15%;
+
+
+
 
  }
 
+ .box-size h2 {
+     margin: 10px;
+
+
+ }
+
+ #amount-red {
+     color: red;
+     width: 50%;
+     margin: 10px;
+
+
+
+ }
+
+
  .box-size {
-     padding-left: 12%;
+     padding-left: 5%;
+     padding-right: 5%;
+     padding-top: 15%;
      width: 100px;
      height: 250px;
      background-color: rgb(240, 234, 234);
      margin: 10px;
-     text-align: center;
+
 
  }
 
@@ -92,5 +117,54 @@
  .our-donate-plan h1 {
      color: black;
      padding-top: 50px;
+
+ }
+
+ .donate-food-etc {
+     display: flex;
+     width: 60%;
+     height: 40%;
+     border: 10%;
+     margin-left: 28%;
+     padding-top: 5%;
+
+ }
+
+ #background-blue {
+     background-color: rgb(171, 171, 241);
+     font-size: 20px;
+     margin-right: 10%;
+     padding-left: 40px;
+     padding-right: 40px;
+
+ }
+
+ #background-pink {
+     background-color: rgb(241, 215, 220);
+     font-size: 20px;
+     margin-right: 10%;
+     padding-left: 40px;
+     padding-right: 40px;
+
+ }
+
+ #background-yellow {
+     background-color: rgb(226, 226, 183);
+     font-size: 20px;
+     margin-right: 10%;
+     padding-left: 40px;
+     padding-right: 40px;
+
+
+
+ }
+
+ .help-them {
+     display: flex;
+     margin-top: 10%
+ }
+
+ .half-width {
+     width 10%;
 
  }
